@@ -1,12 +1,12 @@
 {
   "dideban":[
-        {
+            {
         "TotalTradeValue": 115047720003,
         "ClosingPrice": 21016,
         "ClosingPriceVariationPercentage": 0.33,
         "LastTradePrice": 19900,
         "PriceVariationPercentage": -4.99,
-        "PersianCode": "آ س پ",
+        "PersianCode": "آ س پ"
     },
     {
         "TotalTradeValue": 3820047968,
@@ -14,7 +14,7 @@
         "ClosingPriceVariationPercentage": 0.54,
         "LastTradePrice": 7888,
         "PriceVariationPercentage": 2.98,
-        "PersianCode": "آبین",        
+        "PersianCode": "آبین"      
     },
     {
         "TotalTradeValue": 42302900,
@@ -22,7 +22,7 @@
         "ClosingPriceVariationPercentage": 0,
         "LastTradePrice": 3881,
         "PriceVariationPercentage": 1.99,        
-        "PersianCode": "آرمان",
+        "PersianCode": "آرمان"
     },
     {
         
@@ -31,7 +31,7 @@
         "ClosingPriceVariationPercentage": -0.6,
         "LastTradePrice": 20810,
         "PriceVariationPercentage": -2.99,        
-        "PersianCode": "آریان",
+        "PersianCode": "آریان"
         
     },
     {
@@ -41,7 +41,7 @@
         "ClosingPriceVariationPercentage": 4.95,
         "LastTradePrice": 40000,
         "PriceVariationPercentage": 4.3,        
-        "PersianCode": "آسیا",
+        "PersianCode": "آسیا"
         
     },
     {
@@ -51,7 +51,7 @@
         "ClosingPriceVariationPercentage": 1.32,
         "LastTradePrice": 33600,
         "PriceVariationPercentage": 3.69,        
-        "PersianCode": "اپرداز",
+        "PersianCode": "اپرداز"
         
     },
     {
@@ -61,7 +61,7 @@
         "ClosingPriceVariationPercentage": -0.29,
         "LastTradePrice": 9000,
         "PriceVariationPercentage": -2.54,        
-        "PersianCode": "اتکام",
+        "PersianCode": "اتکام"
         
     },
     {
@@ -71,8 +71,8 @@
         "ClosingPriceVariationPercentage": -0.07,
         "LastTradePrice": 13207,
         "PriceVariationPercentage": -3.81,
-        "PersianCode": "اتکای",
-    },
+        "PersianCode": "اتکای"
+    }
   ],
   "restaurants": [
     { "id": 1, "title": "کترینگ تهران پخت" },
