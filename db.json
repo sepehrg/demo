@@ -1,7 +1,7 @@
 {
   "dideban":[
             {
-              "Id":1,
+              "id":1,
         "TotalTradeValue": 115047720003,
         "ClosingPrice": 21016,
         "ClosingPriceVariationPercentage": 0.33,
@@ -10,7 +10,7 @@
         "PersianCode": "آ س پ"
     },
     {
-      "Id":2,
+      "id":2,
         "TotalTradeValue": 3820047968,
         "ClosingPrice": 7700,
         "ClosingPriceVariationPercentage": 0.54,
@@ -19,7 +19,7 @@
         "PersianCode": "آبین"      
     },
     {
-      "Id":3,
+      "id":3,
         "TotalTradeValue": 42302900,
         "ClosingPrice": 3805,
         "ClosingPriceVariationPercentage": 0,
@@ -28,7 +28,7 @@
         "PersianCode": "آرمان"
     },
     {
-        "Id":4,
+        "id":4,
         "TotalTradeValue": 18998510310,
         "ClosingPrice": 21324,
         "ClosingPriceVariationPercentage": -0.6,
@@ -38,7 +38,7 @@
         
     },
     {
-      "Id":5,
+      "id":5,
         "TotalNumberOfSharesTraded": 3122838,
         "TotalTradeValue": 125706096410,
         "ClosingPrice": 40250,
@@ -49,7 +49,7 @@
         
     },
     {
-      "Id":6,
+      "id":6,
         "TotalNumberOfSharesTraded": 742865,
         "TotalTradeValue": 24755750998,
         "ClosingPrice": 32830,
@@ -60,7 +60,7 @@
         
     },
     {
-      "Id":7,
+      "id":7,
         "TotalNumberOfSharesTraded": 1412209,
         "TotalTradeValue": 12894929438,
         "ClosingPrice": 9208,
@@ -71,7 +71,7 @@
         
     },
     {
-      "Id":8,
+      "id":8,
         "TotalNumberOfSharesTraded": 210678,
         "TotalTradeValue": 2858656567,
         "ClosingPrice": 13722,
